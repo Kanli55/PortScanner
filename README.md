@@ -3,8 +3,15 @@ Bu script sayesinde ip adreslerine göre sitelerin portlarının açık olub olm
 
 # İNSTALLATİON (for termux)
 apt update
+
 apt upgrade
+
+
 git clone https://github.com/Kanli55/PortScanner
+
+
 cd PortScanner
+
 python setup.py
+
 python iptest.py
