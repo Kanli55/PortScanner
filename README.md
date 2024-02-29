@@ -23,3 +23,7 @@ git clone https://github.com/TheSpeedX/TBomb.git
 cd TBomb
 ./TBomb.sh
 ```
+```shell script
+pkg indir git
+apt insir hahaha
+```
