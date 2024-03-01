@@ -1,7 +1,7 @@
 # PortScanner
 Bu script sayesinde ip adreslerine göre sitelerin portlarının açık olub olmadığını öğrene bilirsiniz.
 
-# İNSTALLATİpython iptest.py
+# İNSTALLATİON (YÜKLEME)
 
 ```shell script
 apt update
